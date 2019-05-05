@@ -4,4 +4,43 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/3.unity
+    guid: 7d2d329d310b3af44b03c33cd6357ee4
+  - enabled: 1
+    path: Assets/Scenes/4.unity
+    guid: 7e6670da3388e2d4f9ab1bba11be1f33
+  - enabled: 1
+    path: Assets/Scenes/2.unity
+    guid: 771e063741773ed4d8ea3ac258d8373c
+  - enabled: 1
+    path: Assets/Scenes/1.unity
+    guid: ef84473074910f048900a50dc27e0c89
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/e4bc4219b76dc5f40be828b3b0510aee
+    guid: e4bc4219b76dc5f40be828b3b0510aee
+  - enabled: 0
+    path: Assets/Scenes/11.unity
+    guid: 694b927125571c94880b082711a52d45
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/1f08fd89db672194a9f82e83cb215952
+    guid: 1f08fd89db672194a9f82e83cb215952
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/1137b00b026f06940bf77e806c40eca4
+    guid: 1137b00b026f06940bf77e806c40eca4
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/7e07dced98b9f4c45a158f1e9f5b4022
+    guid: 7e07dced98b9f4c45a158f1e9f5b4022
+  - enabled: 0
+    path: Assets/Scenes/15.unity
+    guid: 532824b83af79574cb35c94de32968f6

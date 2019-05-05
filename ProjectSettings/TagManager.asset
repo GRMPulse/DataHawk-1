@@ -3,7 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - controller
+  - projectile
+  - FxTemporaire
+  - ExitPointTwo
+  - Teleport_Target_Two
+  - ExitPointOne
+  - Teleport_Target_One
+  - Goal
+  - Hawk
+  - LeftHand
+  - RightHand
+  - PlayerController
+  - MainMenuSound
+  - StartingPosition
   layers:
   - Default
   - TransparentFX
