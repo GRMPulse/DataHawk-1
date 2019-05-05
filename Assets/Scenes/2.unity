@@ -160,7 +160,10 @@ Prefab:
       propertyPath: m_TagString
       value: ExitPointOne
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 114329783932286056, guid: 07c6cb7e814477540818ce8a76b8a94a, type: 2}
+    - {fileID: 114090284578587770, guid: 07c6cb7e814477540818ce8a76b8a94a, type: 2}
+    - {fileID: 54422572178572268, guid: 07c6cb7e814477540818ce8a76b8a94a, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: 07c6cb7e814477540818ce8a76b8a94a, type: 2}
   m_IsPrefabParent: 0
 --- !u!82 &60639305
@@ -502,7 +505,6 @@ GameObject:
   - component: {fileID: 308738934}
   - component: {fileID: 308738933}
   - component: {fileID: 308738932}
-  - component: {fileID: 308738931}
   - component: {fileID: 308738930}
   m_Layer: 0
   m_Name: HawkPlacement
@@ -526,22 +528,6 @@ MonoBehaviour:
   velocityAverageFrames: 5
   angularVelocityAverageFrames: 11
   estimateOnAwake: 0
---- !u!54 &308738931
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 54658220095778840, guid: 57cb605a3ea17bb4f8f6c8ac3686817a,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 308738929}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 1
-  m_IsKinematic: 1
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
 --- !u!23 &308738932
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -906,7 +892,11 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 114720190901460286, guid: 1d98315a00d7afd47a07cb9527b70d69, type: 2}
+    - {fileID: 114869571595180118, guid: 1d98315a00d7afd47a07cb9527b70d69, type: 2}
+    - {fileID: 54466526588297066, guid: 1d98315a00d7afd47a07cb9527b70d69, type: 2}
+    - {fileID: 114055766469274570, guid: 1d98315a00d7afd47a07cb9527b70d69, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: 1d98315a00d7afd47a07cb9527b70d69, type: 2}
   m_IsPrefabParent: 0
 --- !u!1 &1263906428 stripped
